@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">♦️ My Techs</h3>
+<h3 align="center">♦️ My Techs ♦️</h3>
 
 ###
 
