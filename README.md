@@ -1,5 +1,3 @@
-###
-
 <h1 align="center">Rico Maulana Putra Wibowo<br>Ambition in Knowledge | Back End Developer | Data Scientist</h1>
 
 ###
