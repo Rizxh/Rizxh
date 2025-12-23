@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Code since 2022<br>📚 I'm currently learning Next.Js, Tailwindcss, Tensorflow<br>🎯 Goals: Fullstack Web Developer & Machine learning Developer<br>🎲 Fun fact: i love wuthering waves</p>
+<p align="left">✨ Code since 2021<br>📚 I'm currently learning Next.Js, Tailwindcss, Tensorflow<br>🎯 Goals: Fullstack Web Developer & Machine learning Developer<br>🎲 Fun fact: i love wuthering waves</p>
 
 ###
 
