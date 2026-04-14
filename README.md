@@ -14,8 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricompw/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rzzh_1)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rizxh&style=for-the-badge&color=blueviolet)
-
 </div>
 
 ---
@@ -134,3 +132,4 @@ The goal isn't just to be a developer who can code. It's to be an engineer who c
   <i>Open to collaborations, projects, and interesting conversations about tech & AI.</i><br><br>
   <b>Let's build something great together. 🚀</b>
 </div>
+
