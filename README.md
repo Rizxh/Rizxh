@@ -46,7 +46,8 @@ I code not just to create features, but to solve real problems — for real peop
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif" />
+
+<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif" width="480" />
 </div>
 
 ---
