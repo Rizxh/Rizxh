@@ -31,17 +31,17 @@ mindset: "Build first. Understand deeper. Repeat."
 fun_fact: I think in systems, dream in endpoints, and debug in my sleep
 ```
 
-I'm **Rico Maulana** — a fullstack developer who believes that technology is only as powerful as the person wielding it with intention.
+I'm **Rico Maulana**, a fullstack developer who believes that technology is only as powerful as the person wielding it with intention.
 
-I didn't start coding to follow a trend. I started because I wanted to *understand* how the digital world is actually built — and more importantly, how to shape it. Since 2021, I've been obsessed with that question. Every project I touch, every line I write, is an attempt to answer it better than the day before.
+I didn't start coding to follow a trend. I started because I wanted to *understand* how the digital world is actually built and more importantly, how to shape it. Since 2021, I've been obsessed with that question. Every project I touch, every line I write, is an attempt to answer it better than the day before.
 
-My world lives at the intersection of **web development** and **intelligent systems**. I build things for the web — clean, performant, scalable — and I'm steadily moving toward a future where the apps I build don't just respond to users, but *think* alongside them.
+My world lives at the intersection of **web development** and **intelligent systems**. I build things for the web clean, performant, scalable and I'm steadily moving toward a future where the apps I build don't just respond to users, but *think* alongside them.
 
-I'm not chasing buzzwords. I'm chasing depth. Whether it's tracing how a Next.js server component hydrates on the client, understanding how n8n orchestrates a complex automation workflow, or figuring out how AI agents can be embedded into real products — I want to know the *why* behind the *what*.
+I'm not chasing buzzwords. I'm chasing depth. Whether it's tracing how a Next.js server component hydrates on the client, understanding how n8n orchestrates a complex automation workflow, or figuring out how AI agents can be embedded into real products. I want to know the *why* behind the *what*.
 
 My philosophy? **Ship fast. Learn deeply. Build things that matter.**
 
-I code not just to create features, but to solve real problems — for real people — with tools that are elegant, efficient, and built to last.
+I code not just to create features, but to solve real problems for real people with tools that are elegant, efficient, and built to last.
 
 ---
 
@@ -104,12 +104,12 @@ for topic, items in learning_stack.items():
 
 I'm not learning these just to add them to a resume. Each one is a deliberate choice:
 
-- **Next.js** — because modern web apps deserve both speed and structure, and I want to master the full server-to-client stack.
+- **Next.js** — because modern web apps deserve both speed and structure, and I want to master the full server to client stack.
 - **Golang** — because performance matters, and I want to build backends that scale without flinching under pressure.
 - **n8n** — because automation is leverage, and connecting intelligent workflows is how I multiply the impact of every line I write.
 - **OpenClaw** — because the future of software is AI-native, and I want to be building *with* it, not just using it.
 
-The goal isn't just to be a developer who can code. It's to be an engineer who can **architect intelligent systems** — from the UI layer down to the automated pipelines running beneath it.
+The goal isn't just to be a developer who can code. It's to be an engineer who can **architect intelligent systems** from the UI layer down to the automated pipelines running beneath it.
 
 ---
 
